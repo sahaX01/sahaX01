@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Subham Saha!
 
-🚀 A passionate coder from India, currently focused on mastering **Full-Stack Development** and cracking **Data Structures & Algorithms**.  
+👨‍💻 A passionate coder from India, currently focused on mastering **Full-Stack Development** and cracking **Data Structures & Algorithms**.  
 🎯 My goal? To land an awesome placement and build real-world impactful projects!
 
 
@@ -31,6 +31,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-FF6F61?style=flat&logo=hoppscotch&logoColor=white)
+
+### 🚀 Infrastructure & Deployment 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ## 👀 Profile Visitors
 
