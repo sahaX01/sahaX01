@@ -26,7 +26,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-1572B6?style=flat&logo=react&logoColor=white)
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux + RTK](https://img.shields.io/badge/Redux_%26_RTK-764ABC?style=flat&logo=redux&logoColor=white)
 
 
 
