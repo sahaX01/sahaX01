@@ -28,7 +28,11 @@
 ![React](https://img.shields.io/badge/React.js-1572B6?style=flat&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Redux + RTK](https://img.shields.io/badge/Redux_%26_RTK-764ABC?style=flat&logo=redux&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=flat&logo=greensock&logoColor=00FF00)
+
+
+
+
 
 
 
