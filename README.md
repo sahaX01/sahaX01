@@ -29,6 +29,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Redux + RTK](https://img.shields.io/badge/Redux_%26_RTK-764ABC?style=flat&logo=redux&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-000000?style=flat&logo=greensock&logoColor=00FF00)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
 
 
