@@ -4,7 +4,7 @@
 🎯 My goal? To land an awesome placement and build real-world impactful projects!
 
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahasubham.in-blue?style=for-the-badge&logo=google-chrome)](https://sahasubham.in)
 ## 🙋‍♂️ About Me
 
 🎓 I'm a **B.Tech student at Cooch Behar Government Engineering College**, Batch **2024–2028** (CSE Department).  
