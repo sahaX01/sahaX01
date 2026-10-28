@@ -43,8 +43,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-FF6F61?style=flat&logo=hoppscotch&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
-[![Docker Pulls](https://img.shields.io/docker/pulls/YOUR_DOCKERHUB_USERNAME/nexoraai-backend)](https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/nexoraai-backend)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ## 👀 Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=subhsa190&color=blue&style=flat)
